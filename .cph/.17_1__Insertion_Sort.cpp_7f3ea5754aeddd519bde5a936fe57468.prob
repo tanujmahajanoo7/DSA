@@ -1,0 +1,1 @@
+{"name":"Local: 17_1__Insertion_Sort","url":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\17_1__Insertion_Sort.cpp","tests":[{"id":1702821727696,"input":"5\n12 45 23 51 19 ","output":"12 19 23 45 51"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\17_1__Insertion_Sort.cpp","group":"local","local":true}

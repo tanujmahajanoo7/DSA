@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main()
 {
     int n;
@@ -11,16 +12,13 @@ int main()
         cin>>arr[i];
     }
 
-
-
-
-
-
-    
+    int mx=-199999999;
 
     for(int i=0;i<n;i++)
     {
-        cout<<arr[i]<<" ";
+        mx=max(mx,arr[i]);
+        cout<<mx<<" ";
     }
-    return 0;  
+
+    return 0;
 }

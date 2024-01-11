@@ -1,0 +1,1 @@
+{"name":"Local: 19_2__Max_Subarray_Sum","url":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\19_2__Max_Subarray_Sum.cpp","tests":[{"id":1702877679194,"input":"4\n-1 2 4 7","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\19_2__Max_Subarray_Sum.cpp","group":"local","local":true}

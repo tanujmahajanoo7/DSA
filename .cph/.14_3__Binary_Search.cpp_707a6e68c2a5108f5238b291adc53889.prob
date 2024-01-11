@@ -1,0 +1,1 @@
+{"name":"Local: 14_3__Binary_Search","url":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\14_3__Binary_Search.cpp","tests":[{"id":1702722814103,"input":"5\n10 20 30 40 50\n40","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\14_3__Binary_Search.cpp","group":"local","local":true}

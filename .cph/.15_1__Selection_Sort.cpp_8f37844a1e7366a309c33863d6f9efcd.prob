@@ -1,0 +1,1 @@
+{"name":"Local: 15_1__Selection_Sort","url":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\15_1__Selection_Sort.cpp","tests":[{"id":1702802107735,"input":"6\n2 4 8 6 9 1","output":"1 2 4 6 8 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\15_1__Selection_Sort.cpp","group":"local","local":true}
