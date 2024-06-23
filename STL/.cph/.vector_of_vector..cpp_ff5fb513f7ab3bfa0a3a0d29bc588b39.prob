@@ -1,0 +1,1 @@
+{"name":"Local: vector_of_vector","url":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\STL\\vector_of_vector..cpp","tests":[{"id":1706556903062,"input":"3\n3\n1 2 3\n2\n4 5 \n4\n6 7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\STL\\vector_of_vector..cpp","group":"local","local":true}

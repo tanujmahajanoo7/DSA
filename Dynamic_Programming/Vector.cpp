@@ -25,7 +25,7 @@ int main()
     for(it=v.begin();it!=v.end();it++)
     {
         cout<<*it<<" ";
-    }
+    }a
     cout<<endl;
     cout<<"-----------------------------------------------------"<<endl;
 

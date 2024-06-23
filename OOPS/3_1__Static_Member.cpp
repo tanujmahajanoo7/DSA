@@ -25,7 +25,7 @@ class Employee
     }
 };
 
-int Employee :: count=1000; // It initailised by default with zero
+int Employee :: count=1000; // It initialised by default with zero
 //This is important to share static variable information
 
 

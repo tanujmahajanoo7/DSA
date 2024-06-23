@@ -1,0 +1,1 @@
+{"name":"Local: vector_array","url":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\STL\\vector_array.cpp","tests":[{"id":1706556337566,"input":"3\n3\n1 2 3\n2\n4 5 \n4\n6 7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\STL\\vector_array.cpp","group":"local","local":true}

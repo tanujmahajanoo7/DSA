@@ -1,0 +1,1 @@
+{"name":"Local: Vector_Advanced_Topic","url":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\STL\\Vector_Advanced_Topic.cpp","tests":[{"id":1706551871595,"input":"3\n3\n1 2 3\n2\n4 5 \n4\n6 7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Launguages\\C++ Apna college\\cpp_A_C\\STL\\Vector_Advanced_Topic.cpp","group":"local","local":true}

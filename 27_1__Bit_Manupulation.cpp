@@ -31,12 +31,18 @@ int main()
     
     cout<<getbit(5,2)<<endl;
 
-    // cout<<setbit(5,1)<<endl;
+    cout<<setbit(5,1)<<endl;
 
-    // cout<<clearbit(5,2)<<endl;
+    cout<<clearbit(5,2)<<endl;
 
-    // cout<<updatebit(5,1,1)<<endl;
+    cout<<updatebit(5,1,1)<<endl;
     
     return 0;  
 }
 
+
+// output
+// 1
+// 7
+// 1
+// 7
