@@ -1,25 +1,33 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-    bool isAnagram(string s, string t) 
-    {
-        map<char,int>count;
-        for(int i=0;i<s.size();i++)
-        {
-            count[s[i]]++;
-            count[t[i]]++;
-        }
-        
-        
+#include <iostream>
+  using namespace std;
+ 
+  class Shape {
+  public:
+     virtual void draw() = 0;  // Pure virtual function
+  };
+ 
+  class Circle : public Shape {
+  public:
+     void draw() override {
+        cout << "Drawing Circle" << endl;
     }
-
-int main()
-{
-    string s,t;
-    cin>>s;
-    cin>>t;
-
-    cout<<isAnagram;
-
-    return 0;
-}
+ };
+  class Square : public Shape {
+  public:
+     void draw() override {
+         cout << "Drawing Square" << endl;
+     }
+ };
+ 
+  int main() 
+  {
+     Shape* shape1 = new Circle();
+     Shape* shape2 = new Square();
+ 
+     shape1->draw();
+     shape2->draw();
+ 
+     delete shape1;
+     delete shape2;
+     return 0;
+  }

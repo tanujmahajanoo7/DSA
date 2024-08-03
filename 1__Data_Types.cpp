@@ -16,7 +16,7 @@ int main()
     cout<<"size of boolean "<<sizeof(d)<<endl;
     
     short int si;
-    cout<<"size of short intrger "<<sizeof(si)<<endl;
+    cout<<"size of short integer "<<sizeof(si)<<endl;
     
     long int li;
     cout<<"size of long integer "<<sizeof(li)<<endl;
